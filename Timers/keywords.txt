@@ -1,8 +1,0 @@
-Timer	KEYWORD1
-setLength	KEYWORD2
-addTime	KEYWORD2
-start	KEYWORD2
-pause	KEYWORD2
-timeLeft	KEYWORD2
-string	KEYWORD2
-isPaused	KEYWORD2
